@@ -7,9 +7,7 @@ Full Requirements Analysis Document Available at: [https://goo.gl/aFwj7N](https:
 
 #### 1.2 (04-20-2016)
 * [Deployed Android App]()
-* Enabled alternative login via GitHub
-* Post images are now persistent through sessions
-* Thumbnail preview of images
+* Deployed Windows App
 
 #### 1.1 (04-11-2016)
 * [Deployed Chrome & Firefox Extension](http://mtam2.github.io/Ctrl-Cloud/)
@@ -22,3 +20,14 @@ Full Requirements Analysis Document Available at: [https://goo.gl/aFwj7N](https:
 * User authentication by email
 * Copy/Post/Delete clips of text/pictures/links
 
+## Future Features
+* Drag-n-Drop Posting
+* Comprehensive Settings Menu
+* Auto-updating Feed
+* Login from other services
+* More Social Media share buttons
+* Push Notifications
+* Premium Services (Private Posts, Post Reordering, Private Messaging, Tagging)
+* Global Search Feature
+* Link/Picture Previews
+* Post Filtering
